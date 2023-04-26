@@ -1,4 +1,4 @@
-module github.com/ymz-ncnk/mus-common-go
+module github.com/mus-format/mus-common-go
 
 go 1.20
 
