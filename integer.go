@@ -1,6 +1,6 @@
 package muscom
 
-// This constants define the number of bytes required for all uint, int,
+// These constants define the number of bytes required for all uint, int,
 // float types in Raw encoding.
 const (
 	Num64RawSize = 8

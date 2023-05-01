@@ -21,7 +21,7 @@ func init() {
 	}
 }
 
-// This constants define the maximum number of bytes used by Varint encoding for
+// These constants define the maximum number of bytes used by Varint encoding for
 // all uint types.
 const (
 	Uint64MaxVarintLen = 10
@@ -30,7 +30,7 @@ const (
 	Uint8MaxVarintLen  = 1
 )
 
-// This constants define the maximum last byte in Varint encoding for all uint
+// These constants define the maximum last byte in Varint encoding for all uint
 // types.
 const (
 	Uint64MaxLastByte byte = 1
