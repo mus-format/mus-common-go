@@ -110,6 +110,7 @@ var BoolTestCases = []bool{
 var StringTestCases = []string{
 	"",
 	"alkjsdlfkj",
+	"asdfljasdfowiuerlqjewrlkjsadflkjafd,nasdvxzcvoiwqoieur34253lkrjwfs,dfn2lj212lkj432po109udsdvl2r3kjl",
 }
 
 // Pointer test cases ----------------------------------------------------------
